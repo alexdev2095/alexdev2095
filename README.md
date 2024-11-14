@@ -1,3 +1,4 @@
+<!--
 # Hello 👋, I’m Alejandro Pérez
 
 <img width="100%" src="./banner.svg"/>
@@ -34,6 +35,7 @@
 - [fluvx](https://github.com/gsi-chao/fluvx)
 - [couchbase/node-ottoman](https://github.com/couchbaselabs/node-ottoman)
 -->
+<!--
 ## Github Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexdev2095&bg_color=30,1890ff,002766&title_color=fff&text_color=fff)
